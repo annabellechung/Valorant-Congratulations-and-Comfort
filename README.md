@@ -3,4 +3,4 @@ My friends LOVE the game Valorant, so I created a discord bot for them which rec
 <br>
 <hr>
 
-<img width="294" alt="screen shot of the discord bot's profile" class="center" src="https://user-images.githubusercontent.com/63426032/170098590-af9c4298-678a-45f4-8c60-10be580886ea.png">
+<img width="589" alt="Screen Shot of the bot's profile" src="https://user-images.githubusercontent.com/63426032/170108875-26909b7d-0562-4081-b61b-9d6c6cc2edd1.png">
